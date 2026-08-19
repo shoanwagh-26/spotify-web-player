@@ -4,26 +4,29 @@ A responsive Spotify-inspired web player interface focused on recreating the str
 
 The project was built from scratch with a focus on translating a complex desktop music interface into a structured, responsive frontend using HTML, CSS, and Tailwind CSS.
 
+## Preview
+
+![Spotify Web Player Preview](./Assets/spotify-preview.png)
+
 ## Live Demo
 
 [View Live Demo](https://shoanWagh-26.github.io/spotify-web-player/)
 
 ## What I Built
 
-I recreated the core visual experience of a modern music streaming dashboard rather than building a simple static landing page.
+I recreated the visual structure of a modern music-streaming interface with emphasis on layout accuracy, responsive behavior, and consistent UI patterns.
 
-The interface is organized around the way a real music product is consumed:
+The interface is structured around:
 
 - Persistent sidebar navigation for Home, Search, and Library
-- Playlist and podcast discovery sections
-- Recently played and trending content
-- Featured music categories
-- A persistent bottom music player
-- Playback controls, progress bar, volume control, and player actions
-- Responsive layout behavior across different screen sizes
+- Recently played, trending, and curated content sections
+- Playlist and podcast discovery areas
+- Card-based content organization
+- Fixed bottom player interface styled to resemble playback controls
+- Responsive layout behavior across screen sizes
+- Consistent spacing, typography, and visual hierarchy
 
-The main objective was to practice building a UI with multiple content sections while maintaining consistent spacing, hierarchy, and visual relationships throughout the page.
-
+The goal was not to build a functional music service, but to translate a complex reference interface into a polished frontend implementation.
 ## Key Frontend Decisions
 
 ### 1. Structured and reusable styling
@@ -76,8 +79,3 @@ This project was primarily built to strengthen my frontend fundamentals around:
 - UI consistency
 - Building a polished frontend without relying on a component framework
 
-## Project Preview
-
-![Spotify Web Player Preview](./Assets/spotify-preview.png)
-
-> Main interface showcasing the navigation system, content sections, music cards, and persistent player layout.
