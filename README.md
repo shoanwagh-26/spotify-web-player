@@ -4,6 +4,10 @@ A responsive Spotify-inspired web player interface focused on recreating the str
 
 The project was built from scratch with a focus on translating a complex desktop music interface into a structured, responsive frontend using HTML, CSS, and Tailwind CSS.
 
+## Live Demo
+
+[View Live Demo](https://shoanWagh-26.github.io/spotify-web-player/)
+
 ## What I Built
 
 I recreated the core visual experience of a modern music streaming dashboard rather than building a simple static landing page.
